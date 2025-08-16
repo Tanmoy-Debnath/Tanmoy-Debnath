@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Tanmoy Debnath
- 👋 Hi, I'm Tanmoy Debnath<br><br>
+ **A passionate Web Developer || IT Support Engineer || ERP Coordinator**<br><br>
  Email Me 👉 ✉️ **tanmoy.bubt@gmail.com** For Collaboration/Project or Anything Else. 😊😊<br><br> 💻 **Web Developer** | 🌐 **Full-Stack Enthusiast**  <br>🛠️ Working with: HTML, CSS, JavaScript, PHP  <br>🎤 Passionate about Web Developing  <br><br> 🔧 **Tech Stack**  <br>- Frontend: HTML5, CSS3, JavaScript  <br>- Backend: PHP  <br>- Always learning & exploring new technologies  <br><br>🎵 **Beyond Coding**  <br>- Love singing in my free time 🎶  <br>- Movie buff 🎬 (always up for recommendations!)  <br><br>
 
 
